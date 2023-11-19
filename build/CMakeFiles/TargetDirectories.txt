@@ -1,0 +1,3 @@
+/home/siren/tf2-onsteroids/build/CMakeFiles/rebuild_cache.dir
+/home/siren/tf2-onsteroids/build/CMakeFiles/edit_cache.dir
+/home/siren/tf2-onsteroids/build/CMakeFiles/cheat.dir

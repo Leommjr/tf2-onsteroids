@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -lpthread -m32  -shared -Wl,-soname,libcheat.so -o libcheat.so CMakeFiles/cheat.dir/src/main.cpp.o CMakeFiles/cheat.dir/src/mem/mem.cpp.o CMakeFiles/cheat.dir/src/features/bhop.cpp.o 
